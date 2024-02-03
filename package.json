@@ -1,0 +1,16 @@
+{
+  "name": "csd4503_assignment3",
+  "version": "1.0.0",
+  "description": "NodeJS Express and Docker File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jaideep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
