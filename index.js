@@ -8,6 +8,10 @@ app.get('/C0866930', function (req, res) {
   res.send('<h1>Hello - C0866930 - Jaideep singh</h1> ')
 })
 
+// http://localhost:3000/jaideep
+app.get('/C0866930', function (req, res) {
+  res.send('<h1>Hello - C0866930 - Jaideep singh</h1> ')
+})
 // http://localhost:3000/hello
 app.get('/hello', function (req, res) {
     res.send('<h1>Hello Login</h1>')
